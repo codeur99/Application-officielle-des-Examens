@@ -1,0 +1,77 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #f1f1f1;
+    border: 1px solid black;
+  
+  }
+  
+  .header .left img {
+    height: 50px;
+  }
+  
+  .header .center {
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .header .right {
+    text-align: right;
+  }
+  
+  .exam-container {
+    padding: 20px;
+  }
+  
+  .sub-header {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    border: 1px solid black;
+  
+  }
+  
+  .sub-header .left, 
+  .sub-header .center, 
+  .sub-header .right {
+    width: 30%;
+  }
+  
+  .sub-header .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .bordure {
+    border: 2px solid black;
+  }
+  
+  .table.ios-table {
+    border: 2px solid black;
+  
+  }
+  
+  .marge {
+    margin-top: 5%;
+  }
+  
+  /* Exemple de CSS pour s'assurer que le tableau prend toute la largeur disponible */
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  /* Ajustez les styles pour l'en-tête si nécessaire */
+  thead {
+    background-color: #f2f2f2;
+  }
+  
