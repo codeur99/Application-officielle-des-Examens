@@ -1,0 +1,25 @@
+.image-logo {
+    height: 50px;
+    width: 50px;
+}
+
+.border-A  {
+    border: 1px solid black;
+}
+
+.point  {
+    color: red;
+}
+
+.image-container {
+    display: flex;
+    gap: 10px; /* Espacement entre les images */
+  }
+  
+  .image-option {
+    width: 100px; /* Largeur de chaque image */
+    height: auto; /* Hauteur automatique pour conserver le ratio */
+  }
+
+  
+  
