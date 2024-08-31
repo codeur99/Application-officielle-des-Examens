@@ -21,5 +21,39 @@
     height: auto; /* Hauteur automatique pour conserver le ratio */
   }
 
+.images-panneaux {
+    width: 30px; /* Largeur de chaque image */
+}
+
+.images-panneaux-sortie_de_secours {
+    width: 50px; /* Largeur de chaque image */
+    text-align: center;
+}
+
+.color {
+    color: red;
+}
+
+.image-question {
+    width: 90px; /* Largeur de chaque image */
+}
+
+.alignement {
+    display: flex;
+}
+
+.space {
+    margin-left: 5%;
+}
+
+
+
+.container-logo {
+    margin-top: 7%;
+ 
+}
+
+
+
   
   
